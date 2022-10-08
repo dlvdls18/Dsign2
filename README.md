@@ -188,7 +188,3 @@ Use these patterns:
 ## Enabling and Disabling dark mode
 Modify the variable `Dsign2.isDark` with boolean.
 If the value is not a boolean, it can cause an error.
-
-# ...
-Yeah, it's a long gap, I did not post 3 months ago, and now, I have a new idea which is this (Dsign Reborn).
-Bye, thanks for using my repository!
