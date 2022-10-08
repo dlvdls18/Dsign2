@@ -116,7 +116,10 @@ Even though it is for animation, We can still use it for anything.
 
 # Features coming soon
 ## Template
-So no DRY.
+```html
+<p class="@mytext=color-red @mytext=text-align-center">Hello, World</p>
+<p class="@mytext">Hello, World</p>
+```
 
 ## Shortcut keywords
 Instead of `text-align-center`,
